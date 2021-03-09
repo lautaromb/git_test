@@ -1,0 +1,42 @@
+#header{
+    margin-right: 50px; 
+    text-align: right;
+    font-size: 13px;
+}
+
+/* h1{
+    font-size: 70px;
+    text-align: center;
+    color: blue;
+} */
+
+.google{
+
+    display: block;
+    margin-top: 12%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 14.5%;
+}
+
+#buscador{
+    /* display: inline-block; */
+    margin-left: 40%;
+    width: 30%;
+}
+#input{
+    width: 60%;
+    margin-left: auto;
+}
+
+.boton{
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 1%;
+    padding:1%;  
+    
+}
+
+#creditos{
+    margin-top: 2%;
+}
